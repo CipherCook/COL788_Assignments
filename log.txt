@@ -1,0 +1,4 @@
+a new file is made!Heart Rate: 122 bpm, SpO2: 80.00%
+Temperature: 29.06°C
+Temperature: 29.31°C
+Heart Rate: 109 bpm, SpO2: 79.00%
